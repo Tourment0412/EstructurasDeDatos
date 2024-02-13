@@ -8,7 +8,7 @@ public class HallaMayorDividiendo {
      * @param args Los argumentos de la línea de comandos.
      */
     public static void main(String[] args) {
-        int[] array = {8, 6, 7, 3, 2, 7, 9, 9};
+        int[] array = {8, 6, 7, 3,22, 2, 7, 9, 9};
         int mayor = hallarMayor(array);
         System.out.println("El mayor elemento del arreglo es: " + mayor);
     }
