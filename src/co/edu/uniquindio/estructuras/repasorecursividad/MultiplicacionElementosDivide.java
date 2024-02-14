@@ -12,7 +12,7 @@ public class MultiplicacionElementosDivide {
      */
     public static void main(String[] args) {
         // Arreglo de ejemplo
-        int[] array = {3, 2, 3, 4, 6};
+        int[] array = {9,4,7,2};
         // Se calcula el resultado de la multiplicación de los elementos del arreglo
         int resul = multiplicarDivideVenceras(array);
         // Se muestra el resultado al usuario
