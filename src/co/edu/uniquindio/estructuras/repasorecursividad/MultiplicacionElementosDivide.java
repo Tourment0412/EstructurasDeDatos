@@ -49,7 +49,7 @@ public class MultiplicacionElementosDivide {
             // Se calcula la multiplicación de los elementos en la segunda mitad del rango
             int y = multiplicarDivideVencerasAux(mitad + 1, fin, array);
             // Se retorna el resultado de la multiplicación de los elementos de ambas mitades
-            return x * y;
+            return x + y;
         }
     }
 }
