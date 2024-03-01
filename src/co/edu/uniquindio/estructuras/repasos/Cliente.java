@@ -1,5 +1,6 @@
 package co.edu.uniquindio.estructuras.repasos;
 
+
 public class Cliente {
 	String nombre;
 	String id;
